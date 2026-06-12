@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Nuevo alerón delantero",
+    "area": "aero",
+    "cost": 8500000,
+    "days": 28,
+    "effect": 2,
+    "risk": "medium",
+    "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas."
+  },
+  {
+    "id": 2,
+    "name": "Fondo plano evolutivo",
+    "area": "aero",
+    "cost": 12000000,
+    "days": 35,
+    "effect": 3,
+    "risk": "high",
+    "description": "Paquete de alta carga con impacto fuerte en rendimiento, pero con riesgo de correlación entre simulador y pista."
+  },
+  {
+    "id": 3,
+    "name": "Difusor revisado",
+    "area": "aero",
+    "cost": 9500000,
+    "days": 30,
+    "effect": 2,
+    "risk": "medium",
+    "description": "Mejora la eficiencia del flujo trasero y ayuda a generar carga sin penalizar tanto la velocidad punta."
+  },
+  {
+    "id": 4,
+    "name": "Suspensión trasera optimizada",
+    "area": "chassis",
+    "cost": 7000000,
+    "days": 24,
+    "effect": 2,
+    "risk": "low",
+    "description": "Mejora la tracción, la estabilidad en salida de curva y el trato del neumático trasero."
+  },
+  {
+    "id": 5,
+    "name": "Reducción de peso estructural",
+    "area": "chassis",
+    "cost": 11000000,
+    "days": 32,
+    "effect": 3,
+    "risk": "medium",
+    "description": "Reduce peso del coche y mejora el rendimiento general, aunque exige revisión de rigidez estructural."
+  },
+  {
+    "id": 6,
+    "name": "Refrigeración mejorada",
+    "area": "reliability",
+    "cost": 6500000,
+    "days": 22,
+    "effect": 2,
+    "risk": "low",
+    "description": "Reduce el riesgo de sobrecalentamiento y mejora la fiabilidad en circuitos calurosos."
+  },
+  {
+    "id": 7,
+    "name": "Fiabilidad de unidad de potencia",
+    "area": "reliability",
+    "cost": 9000000,
+    "days": 30,
+    "effect": 3,
+    "risk": "medium",
+    "description": "Refuerza componentes críticos de la unidad de potencia para reducir abandonos por fallos mecánicos."
+  },
+  {
+    "id": 8,
+    "name": "Entrenamiento intensivo de pit stop",
+    "area": "pitStop",
+    "cost": 2500000,
+    "days": 14,
+    "effect": 2,
+    "risk": "low",
+    "description": "Mejora la coordinación del equipo de boxes y reduce el tiempo medio de parada."
+  },
+  {
+    "id": 9,
+    "name": "Nuevo equipamiento de boxes",
+    "area": "pitStop",
+    "cost": 5000000,
+    "days": 21,
+    "effect": 3,
+    "risk": "low",
+    "description": "Actualiza herramientas y procedimientos del garaje para mejorar la eficiencia operativa."
+  }
+]

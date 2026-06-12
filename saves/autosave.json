@@ -1,0 +1,3272 @@
+{
+  "version": "0.8",
+  "updatedAt": "2026-06-11T20:25:13.780Z",
+  "season": 2026,
+  "playerTeamId": 11,
+  "playerTeamName": "Cadillac F1 Team",
+  "currentDate": "2026-03-08",
+  "currentRound": 0,
+  "activeUpgrades": [],
+  "rivalUpgrades": [
+    {
+      "id": 1781209512962.125,
+      "teamId": 3,
+      "upgradeId": 5,
+      "name": "Reducción de peso estructural",
+      "area": "chassis",
+      "cost": 11000000,
+      "totalDays": 32,
+      "daysRemaining": 4,
+      "effect": 3,
+      "risk": "medium",
+      "description": "Reduce peso del coche y mejora el rendimiento general, aunque exige revisión de rigidez estructural.",
+      "startedAt": "2026-02-08",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209512962.4436,
+      "teamId": 3,
+      "upgradeId": 5,
+      "name": "Reducción de peso estructural",
+      "area": "chassis",
+      "cost": 11000000,
+      "totalDays": 32,
+      "daysRemaining": 5,
+      "effect": 3,
+      "risk": "medium",
+      "description": "Reduce peso del coche y mejora el rendimiento general, aunque exige revisión de rigidez estructural.",
+      "startedAt": "2026-02-09",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209512962.7327,
+      "teamId": 5,
+      "upgradeId": 1,
+      "name": "Nuevo alerón delantero",
+      "area": "aero",
+      "cost": 8500000,
+      "totalDays": 28,
+      "daysRemaining": 1,
+      "effect": 2,
+      "risk": "medium",
+      "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas.",
+      "startedAt": "2026-02-09",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513173.331,
+      "teamId": 9,
+      "upgradeId": 1,
+      "name": "Nuevo alerón delantero",
+      "area": "aero",
+      "cost": 8500000,
+      "totalDays": 28,
+      "daysRemaining": 5,
+      "effect": 2,
+      "risk": "medium",
+      "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas.",
+      "startedAt": "2026-02-13",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513174.1006,
+      "teamId": 4,
+      "upgradeId": 2,
+      "name": "Fondo plano evolutivo",
+      "area": "aero",
+      "cost": 12000000,
+      "totalDays": 35,
+      "daysRemaining": 14,
+      "effect": 3,
+      "risk": "high",
+      "description": "Paquete de alta carga con impacto fuerte en rendimiento, pero con riesgo de correlación entre simulador y pista.",
+      "startedAt": "2026-02-15",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513313.433,
+      "teamId": 7,
+      "upgradeId": 1,
+      "name": "Nuevo alerón delantero",
+      "area": "aero",
+      "cost": 8500000,
+      "totalDays": 28,
+      "daysRemaining": 12,
+      "effect": 2,
+      "risk": "medium",
+      "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas.",
+      "startedAt": "2026-02-20",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513314.9119,
+      "teamId": 2,
+      "upgradeId": 9,
+      "name": "Nuevo equipamiento de boxes",
+      "area": "pitStop",
+      "cost": 5000000,
+      "totalDays": 21,
+      "daysRemaining": 8,
+      "effect": 3,
+      "risk": "low",
+      "description": "Actualiza herramientas y procedimientos del garaje para mejorar la eficiencia operativa.",
+      "startedAt": "2026-02-23",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513314.1929,
+      "teamId": 3,
+      "upgradeId": 5,
+      "name": "Reducción de peso estructural",
+      "area": "chassis",
+      "cost": 11000000,
+      "totalDays": 32,
+      "daysRemaining": 19,
+      "effect": 3,
+      "risk": "medium",
+      "description": "Reduce peso del coche y mejora el rendimiento general, aunque exige revisión de rigidez estructural.",
+      "startedAt": "2026-02-23",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513314.1436,
+      "teamId": 10,
+      "upgradeId": 6,
+      "name": "Refrigeración mejorada",
+      "area": "reliability",
+      "cost": 6500000,
+      "totalDays": 22,
+      "daysRemaining": 10,
+      "effect": 2,
+      "risk": "low",
+      "description": "Reduce el riesgo de sobrecalentamiento y mejora la fiabilidad en circuitos calurosos.",
+      "startedAt": "2026-02-24",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513314.714,
+      "teamId": 1,
+      "upgradeId": 9,
+      "name": "Nuevo equipamiento de boxes",
+      "area": "pitStop",
+      "cost": 5000000,
+      "totalDays": 21,
+      "daysRemaining": 11,
+      "effect": 3,
+      "risk": "low",
+      "description": "Actualiza herramientas y procedimientos del garaje para mejorar la eficiencia operativa.",
+      "startedAt": "2026-02-26",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513314.7712,
+      "teamId": 6,
+      "upgradeId": 4,
+      "name": "Suspensión trasera optimizada",
+      "area": "chassis",
+      "cost": 7000000,
+      "totalDays": 24,
+      "daysRemaining": 14,
+      "effect": 2,
+      "risk": "low",
+      "description": "Mejora la tracción, la estabilidad en salida de curva y el trato del neumático trasero.",
+      "startedAt": "2026-02-26",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513529.2317,
+      "teamId": 5,
+      "upgradeId": 1,
+      "name": "Nuevo alerón delantero",
+      "area": "aero",
+      "cost": 8500000,
+      "totalDays": 28,
+      "daysRemaining": 19,
+      "effect": 2,
+      "risk": "medium",
+      "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas.",
+      "startedAt": "2026-02-27",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513532.4172,
+      "teamId": 1,
+      "upgradeId": 9,
+      "name": "Nuevo equipamiento de boxes",
+      "area": "pitStop",
+      "cost": 5000000,
+      "totalDays": 21,
+      "daysRemaining": 16,
+      "effect": 3,
+      "risk": "low",
+      "description": "Actualiza herramientas y procedimientos del garaje para mejorar la eficiencia operativa.",
+      "startedAt": "2026-03-03",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513532.803,
+      "teamId": 6,
+      "upgradeId": 1,
+      "name": "Nuevo alerón delantero",
+      "area": "aero",
+      "cost": 8500000,
+      "totalDays": 28,
+      "daysRemaining": 23,
+      "effect": 2,
+      "risk": "medium",
+      "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas.",
+      "startedAt": "2026-03-03",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513532.9697,
+      "teamId": 8,
+      "upgradeId": 4,
+      "name": "Suspensión trasera optimizada",
+      "area": "chassis",
+      "cost": 7000000,
+      "totalDays": 24,
+      "daysRemaining": 21,
+      "effect": 2,
+      "risk": "low",
+      "description": "Mejora la tracción, la estabilidad en salida de curva y el trato del neumático trasero.",
+      "startedAt": "2026-03-05",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513778.4885,
+      "teamId": 8,
+      "upgradeId": 1,
+      "name": "Nuevo alerón delantero",
+      "area": "aero",
+      "cost": 8500000,
+      "totalDays": 28,
+      "daysRemaining": 26,
+      "effect": 2,
+      "risk": "medium",
+      "description": "Mejora la carga aerodinámica del tren delantero y la estabilidad en curvas medias y rápidas.",
+      "startedAt": "2026-03-06",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513779.4744,
+      "teamId": 6,
+      "upgradeId": 4,
+      "name": "Suspensión trasera optimizada",
+      "area": "chassis",
+      "cost": 7000000,
+      "totalDays": 24,
+      "daysRemaining": 24,
+      "effect": 2,
+      "risk": "low",
+      "description": "Mejora la tracción, la estabilidad en salida de curva y el trato del neumático trasero.",
+      "startedAt": "2026-03-08",
+      "status": "in_progress"
+    },
+    {
+      "id": 1781209513779.754,
+      "teamId": 10,
+      "upgradeId": 6,
+      "name": "Refrigeración mejorada",
+      "area": "reliability",
+      "cost": 6500000,
+      "totalDays": 22,
+      "daysRemaining": 22,
+      "effect": 2,
+      "risk": "low",
+      "description": "Reduce el riesgo de sobrecalentamiento y mejora la fiabilidad en circuitos calurosos.",
+      "startedAt": "2026-03-08",
+      "status": "in_progress"
+    }
+  ],
+  "playerStrategies": {},
+  "news": [
+    {
+      "id": 1781209513779,
+      "date": "2026-03-08",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Fiabilidad. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209513779,
+      "date": "2026-03-08",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Chasis. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513779,
+      "date": "2026-03-07",
+      "category": "Paddock",
+      "title": "McLaren podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que McLaren tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209513779,
+      "date": "2026-03-07",
+      "category": "Paddock",
+      "title": "Audi podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Audi tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513778,
+      "date": "2026-03-06",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513777,
+      "date": "2026-03-06",
+      "category": "Paddock",
+      "title": "Racing Bulls podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Racing Bulls tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513532,
+      "date": "2026-03-05",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Chasis. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513532,
+      "date": "2026-03-04",
+      "category": "Paddock",
+      "title": "Haas podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Haas tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209513532,
+      "date": "2026-03-04",
+      "category": "Paddock",
+      "title": "Ferrari podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Ferrari tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513532,
+      "date": "2026-03-03",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513532,
+      "date": "2026-03-03",
+      "category": "🔧 Paddock",
+      "title": "McLaren apuesta fuerte en el desarrollo invernal",
+      "text": "McLaren Mercedes ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513532,
+      "date": "2026-03-03",
+      "category": "Paddock",
+      "title": "Audi podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Audi tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513530,
+      "date": "2026-02-28",
+      "category": "Paddock",
+      "title": "Williams podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Williams tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513530,
+      "date": "2026-02-28",
+      "category": "Paddock",
+      "title": "Red Bull podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Red Bull tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209513530,
+      "date": "2026-02-28",
+      "category": "Paddock",
+      "title": "McLaren podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que McLaren tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513529,
+      "date": "2026-02-27",
+      "category": "🔧 Paddock",
+      "title": "Williams presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Williams Racing llega con novedades en Aerodinámica en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-26",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Chasis. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-26",
+      "category": "🔧 Paddock",
+      "title": "McLaren apuesta fuerte en el desarrollo invernal",
+      "text": "McLaren Mercedes ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-26",
+      "category": "Paddock",
+      "title": "Ferrari podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Ferrari tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-25",
+      "category": "Paddock",
+      "title": "Haas podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Haas tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-24",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Fiabilidad. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-24",
+      "category": "Paddock",
+      "title": "Alpine podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Alpine tendría listo un paquete relacionado con Chasis.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-24",
+      "category": "Paddock",
+      "title": "Haas podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Haas tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-23",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Chasis en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-23",
+      "category": "🔧 Paddock",
+      "title": "Mercedes presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Mercedes-AMG Petronas llega con novedades en Pit Stop en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-23",
+      "category": "Paddock",
+      "title": "Alpine podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Alpine tendría listo un paquete relacionado con Chasis.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-22",
+      "category": "Paddock",
+      "title": "Ferrari podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Ferrari tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513314,
+      "date": "2026-02-22",
+      "category": "Paddock",
+      "title": "McLaren podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que McLaren tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513313,
+      "date": "2026-02-21",
+      "category": "Paddock",
+      "title": "Red Bull podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Red Bull tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209513313,
+      "date": "2026-02-20",
+      "category": "🔧 Paddock",
+      "title": "Aston Martin trae uno de sus paquetes planificados",
+      "text": "Aston Martin Aramco ha introducido su actualización de Aerodinámica, parte de su plan de desarrollo estructurado para esta temporada.",
+      "read": false
+    },
+    {
+      "id": 1781209513174,
+      "date": "2026-02-18",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513174,
+      "date": "2026-02-17",
+      "category": "Paddock",
+      "title": "Red Bull podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Red Bull tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209513174,
+      "date": "2026-02-15",
+      "category": "🔧 Paddock",
+      "title": "Ferrari apuesta fuerte en el desarrollo invernal",
+      "text": "Scuderia Ferrari ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513174,
+      "date": "2026-02-15",
+      "category": "Paddock",
+      "title": "Alpine podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Alpine tendría listo un paquete relacionado con Chasis.",
+      "read": false
+    },
+    {
+      "id": 1781209513174,
+      "date": "2026-02-15",
+      "category": "Paddock",
+      "title": "Haas podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Haas tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513174,
+      "date": "2026-02-15",
+      "category": "Paddock",
+      "title": "Racing Bulls podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Racing Bulls tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209513173,
+      "date": "2026-02-14",
+      "category": "🔧 Paddock",
+      "title": "McLaren apuesta fuerte en el desarrollo invernal",
+      "text": "McLaren Mercedes ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209513173,
+      "date": "2026-02-13",
+      "category": "🔧 Paddock",
+      "title": "Audi trabaja en el desarrollo del coche",
+      "text": "Audi F1 Team continúa su proceso de aprendizaje con una mejora en Aerodinámica. El equipo todavía está definiendo su identidad técnica.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-12",
+      "category": "Paddock",
+      "title": "Mercedes podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Mercedes tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-11",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-11",
+      "category": "Paddock",
+      "title": "Mercedes podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Mercedes tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-09",
+      "category": "🔧 Paddock",
+      "title": "Williams presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Williams Racing llega con novedades en Aerodinámica en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-09",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Chasis en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-09",
+      "category": "Paddock",
+      "title": "Racing Bulls podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Racing Bulls tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-09",
+      "category": "Paddock",
+      "title": "Red Bull podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Red Bull tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-08",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Chasis en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-08",
+      "category": "Paddock",
+      "title": "Racing Bulls podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Racing Bulls tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209512962,
+      "date": "2026-02-07",
+      "category": "🔧 Paddock",
+      "title": "Audi trabaja en el desarrollo del coche",
+      "text": "Audi F1 Team continúa su proceso de aprendizaje con una mejora en Aerodinámica. El equipo todavía está definiendo su identidad técnica.",
+      "read": false
+    },
+    {
+      "id": 1781209512961,
+      "date": "2026-02-07",
+      "category": "Paddock",
+      "title": "Ferrari podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Ferrari tendría listo un paquete relacionado con Chasis.",
+      "read": false
+    },
+    {
+      "id": 1781209512961,
+      "date": "2026-02-06",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512960,
+      "date": "2026-02-06",
+      "category": "Paddock",
+      "title": "Ferrari podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Ferrari tendría listo un paquete relacionado con Chasis.",
+      "read": false
+    },
+    {
+      "id": 1781209512829,
+      "date": "2026-02-03",
+      "category": "🔧 Paddock",
+      "title": "Audi trabaja en el desarrollo del coche",
+      "text": "Audi F1 Team continúa su proceso de aprendizaje con una mejora en Aerodinámica. El equipo todavía está definiendo su identidad técnica.",
+      "read": false
+    },
+    {
+      "id": 1781209512829,
+      "date": "2026-02-03",
+      "category": "Paddock",
+      "title": "Red Bull podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Red Bull tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512827,
+      "date": "2026-02-02",
+      "category": "Paddock",
+      "title": "Alpine podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Alpine tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209512827,
+      "date": "2026-02-02",
+      "category": "Paddock",
+      "title": "McLaren podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que McLaren tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512825,
+      "date": "2026-02-01",
+      "category": "Paddock",
+      "title": "Red Bull podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Red Bull tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512825,
+      "date": "2026-01-31",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Chasis. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209512825,
+      "date": "2026-01-31",
+      "category": "🔧 Paddock",
+      "title": "Williams presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Williams Racing llega con novedades en Aerodinámica en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512824,
+      "date": "2026-01-31",
+      "category": "Paddock",
+      "title": "Haas podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Haas tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209512824,
+      "date": "2026-01-31",
+      "category": "Paddock",
+      "title": "Racing Bulls podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Racing Bulls tendría listo un paquete relacionado con Aerodinámica.",
+      "read": false
+    },
+    {
+      "id": 1781209512823,
+      "date": "2026-01-30",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Chasis. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209512822,
+      "date": "2026-01-30",
+      "category": "Paddock",
+      "title": "Williams podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Williams tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512662,
+      "date": "2026-01-29",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Fiabilidad en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512662,
+      "date": "2026-01-28",
+      "category": "🔧 Paddock",
+      "title": "Ferrari apuesta fuerte en el desarrollo invernal",
+      "text": "Scuderia Ferrari ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512661,
+      "date": "2026-01-27",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512661,
+      "date": "2026-01-27",
+      "category": "Paddock",
+      "title": "Audi podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Audi tendría listo un paquete relacionado con Fiabilidad.",
+      "read": false
+    },
+    {
+      "id": 1781209512661,
+      "date": "2026-01-26",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512660,
+      "date": "2026-01-25",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Pit Stop. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512660,
+      "date": "2026-01-25",
+      "category": "Paddock",
+      "title": "Alpine podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Alpine tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209512659,
+      "date": "2026-01-24",
+      "category": "🔧 Paddock",
+      "title": "McLaren apuesta fuerte en el desarrollo invernal",
+      "text": "McLaren Mercedes ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512479,
+      "date": "2026-01-22",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Chasis. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209512479,
+      "date": "2026-01-22",
+      "category": "🔧 Paddock",
+      "title": "Ferrari apuesta fuerte en el desarrollo invernal",
+      "text": "Scuderia Ferrari ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512479,
+      "date": "2026-01-22",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Fiabilidad en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512478,
+      "date": "2026-01-21",
+      "category": "Paddock",
+      "title": "Alpine podría llevar novedades al coche",
+      "text": "Fuentes del paddock señalan que Alpine tendría listo un paquete relacionado con Pit Stop.",
+      "read": false
+    },
+    {
+      "id": 1781209512478,
+      "date": "2026-01-19",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Pit Stop. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209512478,
+      "date": "2026-01-18",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512478,
+      "date": "2026-01-18",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512478,
+      "date": "2026-01-18",
+      "category": "🔧 Paddock",
+      "title": "Ferrari apuesta fuerte en el desarrollo invernal",
+      "text": "Scuderia Ferrari ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512478,
+      "date": "2026-01-18",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Fiabilidad en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512477,
+      "date": "2026-01-18",
+      "category": "🔧 Paddock",
+      "title": "McLaren apuesta fuerte en el desarrollo invernal",
+      "text": "McLaren Mercedes ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512340,
+      "date": "2026-01-12",
+      "category": "🔧 Paddock",
+      "title": "Mercedes presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Mercedes-AMG Petronas llega con novedades en Fiabilidad en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512339,
+      "date": "2026-01-11",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Pit Stop. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209512338,
+      "date": "2026-01-10",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Fiabilidad en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512172,
+      "date": "2026-01-08",
+      "category": "🔧 Paddock",
+      "title": "Williams presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Williams Racing llega con novedades en Fiabilidad en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512172,
+      "date": "2026-01-08",
+      "category": "🔧 Paddock",
+      "title": "Mercedes presenta su paquete de actualizaciones",
+      "text": "Como suele ocurrir, Mercedes-AMG Petronas llega con novedades en Aerodinámica en la segunda mitad de temporada. El equipo confía en que estas mejoras los catapulten en el campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512171,
+      "date": "2026-01-07",
+      "category": "🔧 Paddock",
+      "title": "Alpine introduce mejoras graduales",
+      "text": "BWT Alpine F1 Team sigue su estrategia de desarrollo gradual con una actualización en Pit Stop. El equipo prioriza la consistencia sobre los grandes saltos.",
+      "read": false
+    },
+    {
+      "id": 1781209512170,
+      "date": "2026-01-06",
+      "category": "🔧 Paddock",
+      "title": "Ferrari apuesta fuerte en el desarrollo invernal",
+      "text": "Scuderia Ferrari ha preparado un paquete de mejoras en Chasis. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512169,
+      "date": "2026-01-05",
+      "category": "🔧 Paddock",
+      "title": "Audi trabaja en el desarrollo del coche",
+      "text": "Audi F1 Team continúa su proceso de aprendizaje con una mejora en Fiabilidad. El equipo todavía está definiendo su identidad técnica.",
+      "read": false
+    },
+    {
+      "id": 1781209512169,
+      "date": "2026-01-05",
+      "category": "🔧 Paddock",
+      "title": "Ferrari apuesta fuerte en el desarrollo invernal",
+      "text": "Scuderia Ferrari ha preparado un paquete de mejoras en Chasis. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512169,
+      "date": "2026-01-04",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Fiabilidad en la próxima cita del calendario.",
+      "read": false
+    },
+    {
+      "id": 1781209512168,
+      "date": "2026-01-03",
+      "category": "🔧 Paddock",
+      "title": "Haas apuesta fuerte en el desarrollo invernal",
+      "text": "MoneyGram Haas F1 Team ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512168,
+      "date": "2026-01-03",
+      "category": "🔧 Paddock",
+      "title": "Racing Bulls apuesta fuerte en el desarrollo invernal",
+      "text": "Visa Cash App Racing Bulls ha preparado un paquete de mejoras en Aerodinámica. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512167,
+      "date": "2026-01-03",
+      "category": "🔧 Paddock",
+      "title": "McLaren apuesta fuerte en el desarrollo invernal",
+      "text": "McLaren Mercedes ha preparado un paquete de mejoras en Fiabilidad. El equipo quiere sacar ventaja en la primera parte del campeonato.",
+      "read": false
+    },
+    {
+      "id": 1781209512163,
+      "date": "2026-01-02",
+      "category": "🔧 Paddock",
+      "title": "Red Bull lleva nuevas mejoras al próximo Gran Premio",
+      "text": "Oracle Red Bull Racing mantiene su ritmo habitual de desarrollo y presentará actualizaciones en Fiabilidad en la próxima cita del calendario.",
+      "read": false
+    }
+  ],
+  "teams": [
+    {
+      "id": 1,
+      "name": "McLaren Mercedes",
+      "shortName": "McLaren",
+      "nationality": "GBR",
+      "engine": "Mercedes",
+      "budget": 232000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 97,
+        "aero": 100,
+        "chassis": 94,
+        "reliability": 94,
+        "pitStop": 96
+      },
+      "powerUnit": {
+        "manufacturer": "Mercedes",
+        "power": 96,
+        "deployment": 95,
+        "reliability": 92,
+        "overall": 94
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 60
+      },
+      "color": "#FF8000",
+      "drivers": [
+        1,
+        2
+      ],
+      "finances": {
+        "driverSalaries": 42000000,
+        "engineerSalaries": 38000000,
+        "sponsorIncome": 85000000,
+        "prizeMoneyLastYear": 120000000,
+        "weeklyBurnRate": 1800000
+      }
+    },
+    {
+      "id": 2,
+      "name": "Mercedes-AMG Petronas",
+      "shortName": "Mercedes",
+      "nationality": "GBR",
+      "engine": "Mercedes",
+      "budget": 294000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 96,
+        "aero": 97,
+        "chassis": 96,
+        "reliability": 96,
+        "pitStop": 94
+      },
+      "powerUnit": {
+        "manufacturer": "Mercedes",
+        "power": 96,
+        "deployment": 95,
+        "reliability": 92,
+        "overall": 94
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 15
+      },
+      "color": "#00D2BE",
+      "drivers": [
+        3,
+        4
+      ],
+      "finances": {
+        "driverSalaries": 55000000,
+        "engineerSalaries": 45000000,
+        "sponsorIncome": 95000000,
+        "prizeMoneyLastYear": 110000000,
+        "weeklyBurnRate": 2000000
+      }
+    },
+    {
+      "id": 3,
+      "name": "Oracle Red Bull Racing",
+      "shortName": "Red Bull",
+      "nationality": "AUT",
+      "engine": "Red Bull-Ford",
+      "budget": 253000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 92,
+        "aero": 91,
+        "chassis": 89,
+        "reliability": 100,
+        "pitStop": 91
+      },
+      "powerUnit": {
+        "manufacturer": "Red Bull-Ford",
+        "power": 94,
+        "deployment": 92,
+        "reliability": 84,
+        "overall": 90
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 20
+      },
+      "color": "#1E3A8A",
+      "drivers": [
+        5,
+        6
+      ],
+      "finances": {
+        "driverSalaries": 60000000,
+        "engineerSalaries": 48000000,
+        "sponsorIncome": 110000000,
+        "prizeMoneyLastYear": 130000000,
+        "weeklyBurnRate": 2100000
+      }
+    },
+    {
+      "id": 4,
+      "name": "Scuderia Ferrari",
+      "shortName": "Ferrari",
+      "nationality": "ITA",
+      "engine": "Ferrari",
+      "budget": 280000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 96,
+        "aero": 100,
+        "chassis": 97,
+        "reliability": 91,
+        "pitStop": 93
+      },
+      "powerUnit": {
+        "manufacturer": "Ferrari",
+        "power": 91,
+        "deployment": 89,
+        "reliability": 98,
+        "overall": 93
+      },
+      "concordiaPact": {
+        "hasVeto": true,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 75
+      },
+      "color": "#DC0000",
+      "drivers": [
+        7,
+        8
+      ],
+      "finances": {
+        "driverSalaries": 65000000,
+        "engineerSalaries": 50000000,
+        "sponsorIncome": 120000000,
+        "prizeMoneyLastYear": 125000000,
+        "weeklyBurnRate": 2200000
+      }
+    },
+    {
+      "id": 5,
+      "name": "Williams Racing",
+      "shortName": "Williams",
+      "nationality": "GBR",
+      "engine": "Mercedes",
+      "budget": 108000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 81,
+        "aero": 82,
+        "chassis": 81,
+        "reliability": 80,
+        "pitStop": 80
+      },
+      "powerUnit": {
+        "manufacturer": "Mercedes",
+        "power": 96,
+        "deployment": 95,
+        "reliability": 92,
+        "overall": 94
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 48
+      },
+      "color": "#005AFF",
+      "drivers": [
+        9,
+        10
+      ],
+      "finances": {
+        "driverSalaries": 18000000,
+        "engineerSalaries": 28000000,
+        "sponsorIncome": 45000000,
+        "prizeMoneyLastYear": 55000000,
+        "weeklyBurnRate": 900000
+      }
+    },
+    {
+      "id": 6,
+      "name": "Visa Cash App Racing Bulls",
+      "shortName": "Racing Bulls",
+      "nationality": "ITA",
+      "engine": "Red Bull-Ford",
+      "budget": 77000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 85,
+        "aero": 88,
+        "chassis": 82,
+        "reliability": 82,
+        "pitStop": 85
+      },
+      "powerUnit": {
+        "manufacturer": "Red Bull-Ford",
+        "power": 94,
+        "deployment": 92,
+        "reliability": 84,
+        "overall": 90
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 20
+      },
+      "color": "#1434CB",
+      "drivers": [
+        11,
+        12
+      ],
+      "finances": {
+        "driverSalaries": 14000000,
+        "engineerSalaries": 26000000,
+        "sponsorIncome": 38000000,
+        "prizeMoneyLastYear": 48000000,
+        "weeklyBurnRate": 820000
+      }
+    },
+    {
+      "id": 7,
+      "name": "Aston Martin Aramco",
+      "shortName": "Aston Martin",
+      "nationality": "GBR",
+      "engine": "Honda",
+      "budget": 251500000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 70,
+        "aero": 71,
+        "chassis": 70,
+        "reliability": 65,
+        "pitStop": 71
+      },
+      "powerUnit": {
+        "manufacturer": "Honda",
+        "power": 75,
+        "deployment": 75,
+        "reliability": 59,
+        "overall": 70
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 5
+      },
+      "color": "#006F62",
+      "drivers": [
+        13,
+        14
+      ],
+      "finances": {
+        "driverSalaries": 30000000,
+        "engineerSalaries": 35000000,
+        "sponsorIncome": 75000000,
+        "prizeMoneyLastYear": 70000000,
+        "weeklyBurnRate": 1400000
+      }
+    },
+    {
+      "id": 8,
+      "name": "MoneyGram Haas F1 Team",
+      "shortName": "Haas",
+      "nationality": "USA",
+      "engine": "Ferrari",
+      "budget": 74000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 85,
+        "aero": 87,
+        "chassis": 83,
+        "reliability": 84,
+        "pitStop": 86
+      },
+      "powerUnit": {
+        "manufacturer": "Ferrari",
+        "power": 91,
+        "deployment": 89,
+        "reliability": 98,
+        "overall": 93
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 10
+      },
+      "color": "#B6BABD",
+      "drivers": [
+        15,
+        16
+      ],
+      "finances": {
+        "driverSalaries": 10000000,
+        "engineerSalaries": 22000000,
+        "sponsorIncome": 30000000,
+        "prizeMoneyLastYear": 40000000,
+        "weeklyBurnRate": 700000
+      }
+    },
+    {
+      "id": 9,
+      "name": "Audi F1 Team",
+      "shortName": "Audi",
+      "nationality": "DEU",
+      "engine": "Audi",
+      "budget": 268000000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 82,
+        "aero": 84,
+        "chassis": 82,
+        "reliability": 81,
+        "pitStop": 80
+      },
+      "powerUnit": {
+        "manufacturer": "Audi",
+        "power": 89,
+        "deployment": 80,
+        "reliability": 79,
+        "overall": 83
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 1
+      },
+      "color": "#C0C0C0",
+      "drivers": [
+        17,
+        18
+      ],
+      "finances": {
+        "driverSalaries": 22000000,
+        "engineerSalaries": 40000000,
+        "sponsorIncome": 90000000,
+        "prizeMoneyLastYear": 42000000,
+        "weeklyBurnRate": 1600000
+      }
+    },
+    {
+      "id": 10,
+      "name": "BWT Alpine F1 Team",
+      "shortName": "Alpine",
+      "nationality": "FRA",
+      "engine": "Mercedes",
+      "budget": 118500000,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 87,
+        "aero": 85,
+        "chassis": 90,
+        "reliability": 84,
+        "pitStop": 89
+      },
+      "powerUnit": {
+        "manufacturer": "Mercedes",
+        "power": 96,
+        "deployment": 95,
+        "reliability": 92,
+        "overall": 94
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 25
+      },
+      "color": "#FF69B4",
+      "drivers": [
+        19,
+        20
+      ],
+      "finances": {
+        "driverSalaries": 16000000,
+        "engineerSalaries": 30000000,
+        "sponsorIncome": 50000000,
+        "prizeMoneyLastYear": 45000000,
+        "weeklyBurnRate": 950000
+      }
+    },
+    {
+      "id": 11,
+      "name": "Cadillac F1 Team",
+      "shortName": "Cadillac",
+      "nationality": "USA",
+      "engine": "Ferrari",
+      "budget": 206666666,
+      "costCap": 215000000,
+      "performance": {
+        "overall": 66,
+        "aero": 65,
+        "chassis": 66,
+        "reliability": 68,
+        "pitStop": 65
+      },
+      "powerUnit": {
+        "manufacturer": "Ferrari",
+        "power": 91,
+        "deployment": 89,
+        "reliability": 98,
+        "overall": 93
+      },
+      "concordiaPact": {
+        "hasVeto": false,
+        "vetoUsedThisSeason": false,
+        "yearsInF1": 1
+      },
+      "color": "#C8A951",
+      "drivers": [
+        21,
+        22
+      ],
+      "finances": {
+        "driverSalaries": 12000000,
+        "engineerSalaries": 25000000,
+        "sponsorIncome": 60000000,
+        "prizeMoneyLastYear": 35000000,
+        "weeklyBurnRate": 1100000
+      }
+    }
+  ],
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Lando Norris",
+      "nationality": "GBR",
+      "age": 26,
+      "teamId": 1,
+      "number": 4,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 22000000,
+        "option": true
+      },
+      "moral": 85,
+      "form": 88,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 95,
+        "qualifying": 94,
+        "racecraft": 93,
+        "tireManagement": 87,
+        "consistency": 92,
+        "experience": 82,
+        "potential": 97,
+        "aggression": 78,
+        "defense": 83,
+        "overtaking": 90,
+        "wetWeather": 91,
+        "technicalFeedback": 93
+      }
+    },
+    {
+      "id": 2,
+      "name": "Oscar Piastri",
+      "nationality": "AUS",
+      "age": 24,
+      "teamId": 1,
+      "number": 81,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 10000000,
+        "option": true
+      },
+      "moral": 82,
+      "form": 85,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 92,
+        "qualifying": 91,
+        "racecraft": 90,
+        "tireManagement": 88,
+        "consistency": 89,
+        "experience": 68,
+        "potential": 98,
+        "aggression": 74,
+        "defense": 80,
+        "overtaking": 87,
+        "wetWeather": 85,
+        "technicalFeedback": 89
+      }
+    },
+    {
+      "id": 23,
+      "name": "Leonardo Fornaroli",
+      "nationality": "ITA",
+      "age": 19,
+      "teamId": 1,
+      "number": 99,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 500000,
+        "option": true
+      },
+      "moral": 75,
+      "form": 74,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 72,
+        "qualifying": 71,
+        "racecraft": 70,
+        "tireManagement": 68,
+        "consistency": 69,
+        "experience": 18,
+        "potential": 88,
+        "aggression": 72,
+        "defense": 64,
+        "overtaking": 70,
+        "wetWeather": 68,
+        "technicalFeedback": 72
+      }
+    },
+    {
+      "id": 24,
+      "name": "Pato O'Ward",
+      "nationality": "MEX",
+      "age": 26,
+      "teamId": 1,
+      "number": 98,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 800000,
+        "option": false
+      },
+      "moral": 78,
+      "form": 77,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 80,
+        "qualifying": 79,
+        "racecraft": 81,
+        "tireManagement": 78,
+        "consistency": 79,
+        "experience": 45,
+        "potential": 85,
+        "aggression": 78,
+        "defense": 74,
+        "overtaking": 80,
+        "wetWeather": 75,
+        "technicalFeedback": 78
+      }
+    },
+    {
+      "id": 3,
+      "name": "George Russell",
+      "nationality": "GBR",
+      "age": 28,
+      "teamId": 2,
+      "number": 63,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 28000000,
+        "option": false
+      },
+      "moral": 80,
+      "form": 83,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 91,
+        "qualifying": 93,
+        "racecraft": 89,
+        "tireManagement": 85,
+        "consistency": 90,
+        "experience": 78,
+        "potential": 94,
+        "aggression": 76,
+        "defense": 82,
+        "overtaking": 86,
+        "wetWeather": 88,
+        "technicalFeedback": 94
+      }
+    },
+    {
+      "id": 4,
+      "name": "Kimi Antonelli",
+      "nationality": "ITA",
+      "age": 19,
+      "teamId": 2,
+      "number": 12,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 4000000,
+        "option": true
+      },
+      "moral": 78,
+      "form": 80,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 88,
+        "qualifying": 89,
+        "racecraft": 83,
+        "tireManagement": 78,
+        "consistency": 80,
+        "experience": 42,
+        "potential": 99,
+        "aggression": 82,
+        "defense": 74,
+        "overtaking": 84,
+        "wetWeather": 82,
+        "technicalFeedback": 85
+      }
+    },
+    {
+      "id": 25,
+      "name": "Frederik Vesti",
+      "nationality": "DEN",
+      "age": 23,
+      "teamId": 2,
+      "number": 97,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 600000,
+        "option": true
+      },
+      "moral": 76,
+      "form": 75,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 78,
+        "qualifying": 79,
+        "racecraft": 76,
+        "tireManagement": 74,
+        "consistency": 75,
+        "experience": 28,
+        "potential": 90,
+        "aggression": 74,
+        "defense": 70,
+        "overtaking": 76,
+        "wetWeather": 74,
+        "technicalFeedback": 79
+      }
+    },
+    {
+      "id": 5,
+      "name": "Max Verstappen",
+      "nationality": "NLD",
+      "age": 28,
+      "teamId": 3,
+      "number": 33,
+      "role": "driver",
+      "contract": {
+        "until": 2028,
+        "salary": 60000000,
+        "option": false
+      },
+      "moral": 92,
+      "form": 95,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 97,
+        "qualifying": 96,
+        "racecraft": 97,
+        "tireManagement": 89,
+        "consistency": 95,
+        "experience": 91,
+        "potential": 99,
+        "aggression": 86,
+        "defense": 93,
+        "overtaking": 95,
+        "wetWeather": 96,
+        "technicalFeedback": 91
+      }
+    },
+    {
+      "id": 6,
+      "name": "Isack Hadjar",
+      "nationality": "FRA",
+      "age": 20,
+      "teamId": 3,
+      "number": 6,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 3000000,
+        "option": true
+      },
+      "moral": 75,
+      "form": 78,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 85,
+        "qualifying": 86,
+        "racecraft": 82,
+        "tireManagement": 76,
+        "consistency": 78,
+        "experience": 38,
+        "potential": 96,
+        "aggression": 80,
+        "defense": 72,
+        "overtaking": 81,
+        "wetWeather": 79,
+        "technicalFeedback": 82
+      }
+    },
+    {
+      "id": 26,
+      "name": "Yuki Tsunoda",
+      "nationality": "JAP",
+      "age": 25,
+      "teamId": 3,
+      "number": 22,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 1000000,
+        "option": false
+      },
+      "moral": 72,
+      "form": 74,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 82,
+        "qualifying": 83,
+        "racecraft": 81,
+        "tireManagement": 79,
+        "consistency": 78,
+        "experience": 62,
+        "potential": 85,
+        "aggression": 84,
+        "defense": 75,
+        "overtaking": 80,
+        "wetWeather": 78,
+        "technicalFeedback": 80
+      }
+    },
+    {
+      "id": 7,
+      "name": "Charles Leclerc",
+      "nationality": "MON",
+      "age": 28,
+      "teamId": 4,
+      "number": 16,
+      "role": "driver",
+      "contract": {
+        "until": 2029,
+        "salary": 35000000,
+        "option": false
+      },
+      "moral": 83,
+      "form": 86,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 94,
+        "qualifying": 97,
+        "racecraft": 90,
+        "tireManagement": 83,
+        "consistency": 86,
+        "experience": 80,
+        "potential": 96,
+        "aggression": 81,
+        "defense": 80,
+        "overtaking": 87,
+        "wetWeather": 89,
+        "technicalFeedback": 89
+      }
+    },
+    {
+      "id": 8,
+      "name": "Lewis Hamilton",
+      "nationality": "GBR",
+      "age": 41,
+      "teamId": 4,
+      "number": 44,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 40000000,
+        "option": false
+      },
+      "moral": 80,
+      "form": 82,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 91,
+        "qualifying": 90,
+        "racecraft": 95,
+        "tireManagement": 94,
+        "consistency": 92,
+        "experience": 99,
+        "potential": 88,
+        "aggression": 79,
+        "defense": 90,
+        "overtaking": 93,
+        "wetWeather": 97,
+        "technicalFeedback": 96
+      }
+    },
+    {
+      "id": 27,
+      "name": "Antonio Giovinazzi",
+      "nationality": "ITA",
+      "age": 31,
+      "teamId": 4,
+      "number": 99,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 800000,
+        "option": false
+      },
+      "moral": 70,
+      "form": 72,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 79,
+        "qualifying": 78,
+        "racecraft": 80,
+        "tireManagement": 81,
+        "consistency": 79,
+        "experience": 75,
+        "potential": 78,
+        "aggression": 74,
+        "defense": 76,
+        "overtaking": 77,
+        "wetWeather": 76,
+        "technicalFeedback": 82
+      }
+    },
+    {
+      "id": 9,
+      "name": "Alex Albon",
+      "nationality": "THA",
+      "age": 28,
+      "teamId": 5,
+      "number": 23,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 8000000,
+        "option": false
+      },
+      "moral": 76,
+      "form": 79,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 84,
+        "qualifying": 83,
+        "racecraft": 85,
+        "tireManagement": 87,
+        "consistency": 84,
+        "experience": 74,
+        "potential": 88,
+        "aggression": 72,
+        "defense": 78,
+        "overtaking": 80,
+        "wetWeather": 83,
+        "technicalFeedback": 88
+      }
+    },
+    {
+      "id": 10,
+      "name": "Carlos Sainz",
+      "nationality": "ESP",
+      "age": 31,
+      "teamId": 5,
+      "number": 55,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 12000000,
+        "option": false
+      },
+      "moral": 82,
+      "form": 84,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 89,
+        "qualifying": 88,
+        "racecraft": 91,
+        "tireManagement": 90,
+        "consistency": 91,
+        "experience": 86,
+        "potential": 90,
+        "aggression": 77,
+        "defense": 85,
+        "overtaking": 88,
+        "wetWeather": 87,
+        "technicalFeedback": 90
+      }
+    },
+    {
+      "id": 28,
+      "name": "Luke Browning",
+      "nationality": "GBR",
+      "age": 22,
+      "teamId": 5,
+      "number": 96,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 400000,
+        "option": true
+      },
+      "moral": 74,
+      "form": 73,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 73,
+        "qualifying": 72,
+        "racecraft": 71,
+        "tireManagement": 70,
+        "consistency": 70,
+        "experience": 22,
+        "potential": 86,
+        "aggression": 73,
+        "defense": 66,
+        "overtaking": 71,
+        "wetWeather": 70,
+        "technicalFeedback": 73
+      }
+    },
+    {
+      "id": 29,
+      "name": "Victor Martins",
+      "nationality": "FRA",
+      "age": 23,
+      "teamId": 5,
+      "number": 95,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 450000,
+        "option": true
+      },
+      "moral": 75,
+      "form": 74,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 75,
+        "qualifying": 76,
+        "racecraft": 74,
+        "tireManagement": 72,
+        "consistency": 73,
+        "experience": 25,
+        "potential": 87,
+        "aggression": 74,
+        "defense": 68,
+        "overtaking": 73,
+        "wetWeather": 72,
+        "technicalFeedback": 75
+      }
+    },
+    {
+      "id": 11,
+      "name": "Liam Lawson",
+      "nationality": "NZL",
+      "age": 23,
+      "teamId": 6,
+      "number": 30,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 5000000,
+        "option": true
+      },
+      "moral": 74,
+      "form": 77,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 83,
+        "qualifying": 82,
+        "racecraft": 84,
+        "tireManagement": 80,
+        "consistency": 81,
+        "experience": 52,
+        "potential": 91,
+        "aggression": 83,
+        "defense": 76,
+        "overtaking": 82,
+        "wetWeather": 80,
+        "technicalFeedback": 81
+      }
+    },
+    {
+      "id": 12,
+      "name": "Arvid Lindblad",
+      "nationality": "GBR",
+      "age": 18,
+      "teamId": 6,
+      "number": 7,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 2000000,
+        "option": true
+      },
+      "moral": 72,
+      "form": 74,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 80,
+        "qualifying": 81,
+        "racecraft": 78,
+        "tireManagement": 72,
+        "consistency": 74,
+        "experience": 20,
+        "potential": 97,
+        "aggression": 79,
+        "defense": 68,
+        "overtaking": 77,
+        "wetWeather": 75,
+        "technicalFeedback": 78
+      }
+    },
+    {
+      "id": 30,
+      "name": "Ayumu Iwasa",
+      "nationality": "JAP",
+      "age": 23,
+      "teamId": 6,
+      "number": 94,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 500000,
+        "option": true
+      },
+      "moral": 74,
+      "form": 73,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 76,
+        "qualifying": 77,
+        "racecraft": 75,
+        "tireManagement": 73,
+        "consistency": 74,
+        "experience": 30,
+        "potential": 87,
+        "aggression": 76,
+        "defense": 69,
+        "overtaking": 74,
+        "wetWeather": 73,
+        "technicalFeedback": 76
+      }
+    },
+    {
+      "id": 13,
+      "name": "Fernando Alonso",
+      "nationality": "ESP",
+      "age": 44,
+      "teamId": 7,
+      "number": 14,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 20000000,
+        "option": false
+      },
+      "moral": 84,
+      "form": 86,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 88,
+        "qualifying": 87,
+        "racecraft": 95,
+        "tireManagement": 95,
+        "consistency": 91,
+        "experience": 99,
+        "potential": 82,
+        "aggression": 85,
+        "defense": 94,
+        "overtaking": 92,
+        "wetWeather": 94,
+        "technicalFeedback": 97
+      }
+    },
+    {
+      "id": 14,
+      "name": "Lance Stroll",
+      "nationality": "CAN",
+      "age": 27,
+      "teamId": 7,
+      "number": 18,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 10000000,
+        "option": false
+      },
+      "moral": 68,
+      "form": 70,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 78,
+        "qualifying": 76,
+        "racecraft": 79,
+        "tireManagement": 80,
+        "consistency": 77,
+        "experience": 72,
+        "potential": 80,
+        "aggression": 74,
+        "defense": 75,
+        "overtaking": 75,
+        "wetWeather": 81,
+        "technicalFeedback": 75
+      }
+    },
+    {
+      "id": 31,
+      "name": "Jak Crawford",
+      "nationality": "USA",
+      "age": 20,
+      "teamId": 7,
+      "number": 93,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 500000,
+        "option": true
+      },
+      "moral": 76,
+      "form": 75,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 77,
+        "qualifying": 78,
+        "racecraft": 76,
+        "tireManagement": 74,
+        "consistency": 75,
+        "experience": 24,
+        "potential": 92,
+        "aggression": 78,
+        "defense": 70,
+        "overtaking": 75,
+        "wetWeather": 74,
+        "technicalFeedback": 77
+      }
+    },
+    {
+      "id": 32,
+      "name": "Stoffel Vandoorne",
+      "nationality": "BEL",
+      "age": 33,
+      "teamId": 7,
+      "number": 92,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 700000,
+        "option": false
+      },
+      "moral": 70,
+      "form": 71,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 80,
+        "qualifying": 79,
+        "racecraft": 81,
+        "tireManagement": 82,
+        "consistency": 80,
+        "experience": 70,
+        "potential": 76,
+        "aggression": 72,
+        "defense": 75,
+        "overtaking": 77,
+        "wetWeather": 78,
+        "technicalFeedback": 83
+      }
+    },
+    {
+      "id": 15,
+      "name": "Esteban Ocon",
+      "nationality": "FRA",
+      "age": 29,
+      "teamId": 8,
+      "number": 31,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 7000000,
+        "option": false
+      },
+      "moral": 72,
+      "form": 75,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 82,
+        "qualifying": 81,
+        "racecraft": 83,
+        "tireManagement": 84,
+        "consistency": 83,
+        "experience": 78,
+        "potential": 84,
+        "aggression": 76,
+        "defense": 80,
+        "overtaking": 79,
+        "wetWeather": 82,
+        "technicalFeedback": 83
+      }
+    },
+    {
+      "id": 16,
+      "name": "Oliver Bearman",
+      "nationality": "GBR",
+      "age": 20,
+      "teamId": 8,
+      "number": 87,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 3000000,
+        "option": true
+      },
+      "moral": 76,
+      "form": 78,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 83,
+        "qualifying": 82,
+        "racecraft": 81,
+        "tireManagement": 77,
+        "consistency": 79,
+        "experience": 44,
+        "potential": 94,
+        "aggression": 80,
+        "defense": 73,
+        "overtaking": 80,
+        "wetWeather": 78,
+        "technicalFeedback": 80
+      }
+    },
+    {
+      "id": 33,
+      "name": "Jack Doohan",
+      "nationality": "AUS",
+      "age": 22,
+      "teamId": 8,
+      "number": 91,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 450000,
+        "option": true
+      },
+      "moral": 75,
+      "form": 74,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 76,
+        "qualifying": 75,
+        "racecraft": 74,
+        "tireManagement": 72,
+        "consistency": 73,
+        "experience": 26,
+        "potential": 89,
+        "aggression": 75,
+        "defense": 68,
+        "overtaking": 73,
+        "wetWeather": 72,
+        "technicalFeedback": 75
+      }
+    },
+    {
+      "id": 34,
+      "name": "Ryo Hirakawa",
+      "nationality": "JAP",
+      "age": 30,
+      "teamId": 8,
+      "number": 90,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 600000,
+        "option": false
+      },
+      "moral": 72,
+      "form": 73,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 74,
+        "qualifying": 73,
+        "racecraft": 75,
+        "tireManagement": 76,
+        "consistency": 74,
+        "experience": 55,
+        "potential": 74,
+        "aggression": 70,
+        "defense": 72,
+        "overtaking": 72,
+        "wetWeather": 74,
+        "technicalFeedback": 76
+      }
+    },
+    {
+      "id": 17,
+      "name": "Nico Hulkenberg",
+      "nationality": "DEU",
+      "age": 38,
+      "teamId": 9,
+      "number": 27,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 12000000,
+        "option": false
+      },
+      "moral": 74,
+      "form": 76,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 83,
+        "qualifying": 84,
+        "racecraft": 84,
+        "tireManagement": 85,
+        "consistency": 85,
+        "experience": 92,
+        "potential": 80,
+        "aggression": 75,
+        "defense": 81,
+        "overtaking": 80,
+        "wetWeather": 83,
+        "technicalFeedback": 88
+      }
+    },
+    {
+      "id": 18,
+      "name": "Gabriel Bortoleto",
+      "nationality": "BRA",
+      "age": 20,
+      "teamId": 9,
+      "number": 5,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 3000000,
+        "option": true
+      },
+      "moral": 77,
+      "form": 79,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 82,
+        "qualifying": 83,
+        "racecraft": 80,
+        "tireManagement": 75,
+        "consistency": 77,
+        "experience": 30,
+        "potential": 95,
+        "aggression": 81,
+        "defense": 70,
+        "overtaking": 79,
+        "wetWeather": 77,
+        "technicalFeedback": 79
+      }
+    },
+    {
+      "id": 19,
+      "name": "Pierre Gasly",
+      "nationality": "FRA",
+      "age": 30,
+      "teamId": 10,
+      "number": 10,
+      "role": "driver",
+      "contract": {
+        "until": 2027,
+        "salary": 9000000,
+        "option": false
+      },
+      "moral": 73,
+      "form": 76,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 84,
+        "qualifying": 83,
+        "racecraft": 85,
+        "tireManagement": 83,
+        "consistency": 84,
+        "experience": 82,
+        "potential": 85,
+        "aggression": 78,
+        "defense": 79,
+        "overtaking": 82,
+        "wetWeather": 81,
+        "technicalFeedback": 84
+      }
+    },
+    {
+      "id": 20,
+      "name": "Franco Colapinto",
+      "nationality": "ARG",
+      "age": 22,
+      "teamId": 10,
+      "number": 43,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 3000000,
+        "option": true
+      },
+      "moral": 80,
+      "form": 82,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 81,
+        "qualifying": 80,
+        "racecraft": 82,
+        "tireManagement": 78,
+        "consistency": 78,
+        "experience": 46,
+        "potential": 92,
+        "aggression": 82,
+        "defense": 74,
+        "overtaking": 80,
+        "wetWeather": 79,
+        "technicalFeedback": 80
+      }
+    },
+    {
+      "id": 35,
+      "name": "Kush Maini",
+      "nationality": "IND",
+      "age": 25,
+      "teamId": 10,
+      "number": 89,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 400000,
+        "option": true
+      },
+      "moral": 74,
+      "form": 73,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 74,
+        "qualifying": 73,
+        "racecraft": 73,
+        "tireManagement": 72,
+        "consistency": 72,
+        "experience": 32,
+        "potential": 83,
+        "aggression": 74,
+        "defense": 67,
+        "overtaking": 72,
+        "wetWeather": 71,
+        "technicalFeedback": 74
+      }
+    },
+    {
+      "id": 36,
+      "name": "Paul Aron",
+      "nationality": "EST",
+      "age": 21,
+      "teamId": 10,
+      "number": 88,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 380000,
+        "option": true
+      },
+      "moral": 75,
+      "form": 74,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 75,
+        "qualifying": 76,
+        "racecraft": 74,
+        "tireManagement": 72,
+        "consistency": 73,
+        "experience": 20,
+        "potential": 88,
+        "aggression": 75,
+        "defense": 68,
+        "overtaking": 73,
+        "wetWeather": 72,
+        "technicalFeedback": 75
+      }
+    },
+    {
+      "id": 21,
+      "name": "Sergio Perez",
+      "nationality": "MEX",
+      "age": 36,
+      "teamId": 11,
+      "number": 11,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 8000000,
+        "option": false
+      },
+      "moral": 68,
+      "form": 70,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 82,
+        "qualifying": 80,
+        "racecraft": 87,
+        "tireManagement": 92,
+        "consistency": 84,
+        "experience": 94,
+        "potential": 78,
+        "aggression": 74,
+        "defense": 83,
+        "overtaking": 83,
+        "wetWeather": 80,
+        "technicalFeedback": 86
+      }
+    },
+    {
+      "id": 22,
+      "name": "Valtteri Bottas",
+      "nationality": "FIN",
+      "age": 36,
+      "teamId": 11,
+      "number": 77,
+      "role": "driver",
+      "contract": {
+        "until": 2026,
+        "salary": 4000000,
+        "option": false
+      },
+      "moral": 65,
+      "form": 68,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 81,
+        "qualifying": 82,
+        "racecraft": 82,
+        "tireManagement": 84,
+        "consistency": 83,
+        "experience": 93,
+        "potential": 76,
+        "aggression": 70,
+        "defense": 78,
+        "overtaking": 78,
+        "wetWeather": 80,
+        "technicalFeedback": 87
+      }
+    },
+    {
+      "id": 37,
+      "name": "Zhou Guanyu",
+      "nationality": "CHN",
+      "age": 26,
+      "teamId": 11,
+      "number": 24,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 700000,
+        "option": false
+      },
+      "moral": 70,
+      "form": 71,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 78,
+        "qualifying": 77,
+        "racecraft": 78,
+        "tireManagement": 79,
+        "consistency": 77,
+        "experience": 65,
+        "potential": 79,
+        "aggression": 72,
+        "defense": 74,
+        "overtaking": 75,
+        "wetWeather": 76,
+        "technicalFeedback": 79
+      }
+    },
+    {
+      "id": 38,
+      "name": "Colton Herta",
+      "nationality": "USA",
+      "age": 25,
+      "teamId": 11,
+      "number": 25,
+      "role": "tester",
+      "contract": {
+        "until": 2026,
+        "salary": 600000,
+        "option": false
+      },
+      "moral": 72,
+      "form": 73,
+      "superLicense": {
+        "points": 0,
+        "penalties": []
+      },
+      "attributes": {
+        "pace": 79,
+        "qualifying": 78,
+        "racecraft": 79,
+        "tireManagement": 77,
+        "consistency": 77,
+        "experience": 40,
+        "potential": 84,
+        "aggression": 76,
+        "defense": 72,
+        "overtaking": 77,
+        "wetWeather": 74,
+        "technicalFeedback": 77
+      }
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1781209513531.8113,
+      "date": "2026-03-01",
+      "type": "income",
+      "category": "sponsor",
+      "amount": 3333333,
+      "description": "Ingreso mensual — Cadillac (Principal)"
+    },
+    {
+      "id": 1781209512826.26,
+      "date": "2026-02-01",
+      "type": "income",
+      "category": "sponsor",
+      "amount": 3333333,
+      "description": "Ingreso mensual — Cadillac (Principal)"
+    }
+  ],
+  "seasonEconomics": {
+    "initialBudget": 200000000,
+    "totalIncome": 6666666,
+    "totalExpenses": 0,
+    "raceIncome": 0,
+    "sponsorIncome": 6666666,
+    "salaryExpenses": 0,
+    "developmentCosts": 0,
+    "accidentCosts": 0,
+    "penaltyCosts": 0,
+    "costCapUsed": 0,
+    "costCapLimit": 215000000,
+    "weeksPassed": 0
+  },
+  "driverStandings": [
+    {
+      "driverId": 1,
+      "driverName": "Lando Norris",
+      "teamId": 1,
+      "teamName": "McLaren",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 2,
+      "driverName": "Oscar Piastri",
+      "teamId": 1,
+      "teamName": "McLaren",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 23,
+      "driverName": "Leonardo Fornaroli",
+      "teamId": 1,
+      "teamName": "McLaren",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 24,
+      "driverName": "Pato O'Ward",
+      "teamId": 1,
+      "teamName": "McLaren",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 3,
+      "driverName": "George Russell",
+      "teamId": 2,
+      "teamName": "Mercedes",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 4,
+      "driverName": "Kimi Antonelli",
+      "teamId": 2,
+      "teamName": "Mercedes",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 25,
+      "driverName": "Frederik Vesti",
+      "teamId": 2,
+      "teamName": "Mercedes",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 5,
+      "driverName": "Max Verstappen",
+      "teamId": 3,
+      "teamName": "Red Bull",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 6,
+      "driverName": "Isack Hadjar",
+      "teamId": 3,
+      "teamName": "Red Bull",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 26,
+      "driverName": "Yuki Tsunoda",
+      "teamId": 3,
+      "teamName": "Red Bull",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 7,
+      "driverName": "Charles Leclerc",
+      "teamId": 4,
+      "teamName": "Ferrari",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 8,
+      "driverName": "Lewis Hamilton",
+      "teamId": 4,
+      "teamName": "Ferrari",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 27,
+      "driverName": "Antonio Giovinazzi",
+      "teamId": 4,
+      "teamName": "Ferrari",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 9,
+      "driverName": "Alex Albon",
+      "teamId": 5,
+      "teamName": "Williams",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 10,
+      "driverName": "Carlos Sainz",
+      "teamId": 5,
+      "teamName": "Williams",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 28,
+      "driverName": "Luke Browning",
+      "teamId": 5,
+      "teamName": "Williams",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 29,
+      "driverName": "Victor Martins",
+      "teamId": 5,
+      "teamName": "Williams",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 11,
+      "driverName": "Liam Lawson",
+      "teamId": 6,
+      "teamName": "Racing Bulls",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 12,
+      "driverName": "Arvid Lindblad",
+      "teamId": 6,
+      "teamName": "Racing Bulls",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 30,
+      "driverName": "Ayumu Iwasa",
+      "teamId": 6,
+      "teamName": "Racing Bulls",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 13,
+      "driverName": "Fernando Alonso",
+      "teamId": 7,
+      "teamName": "Aston Martin",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 14,
+      "driverName": "Lance Stroll",
+      "teamId": 7,
+      "teamName": "Aston Martin",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 31,
+      "driverName": "Jak Crawford",
+      "teamId": 7,
+      "teamName": "Aston Martin",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 32,
+      "driverName": "Stoffel Vandoorne",
+      "teamId": 7,
+      "teamName": "Aston Martin",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 15,
+      "driverName": "Esteban Ocon",
+      "teamId": 8,
+      "teamName": "Haas",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 16,
+      "driverName": "Oliver Bearman",
+      "teamId": 8,
+      "teamName": "Haas",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 33,
+      "driverName": "Jack Doohan",
+      "teamId": 8,
+      "teamName": "Haas",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 34,
+      "driverName": "Ryo Hirakawa",
+      "teamId": 8,
+      "teamName": "Haas",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 17,
+      "driverName": "Nico Hulkenberg",
+      "teamId": 9,
+      "teamName": "Audi",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 18,
+      "driverName": "Gabriel Bortoleto",
+      "teamId": 9,
+      "teamName": "Audi",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 19,
+      "driverName": "Pierre Gasly",
+      "teamId": 10,
+      "teamName": "Alpine",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 20,
+      "driverName": "Franco Colapinto",
+      "teamId": 10,
+      "teamName": "Alpine",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 35,
+      "driverName": "Kush Maini",
+      "teamId": 10,
+      "teamName": "Alpine",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 36,
+      "driverName": "Paul Aron",
+      "teamId": 10,
+      "teamName": "Alpine",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 21,
+      "driverName": "Sergio Perez",
+      "teamId": 11,
+      "teamName": "Cadillac",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 22,
+      "driverName": "Valtteri Bottas",
+      "teamId": 11,
+      "teamName": "Cadillac",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 37,
+      "driverName": "Zhou Guanyu",
+      "teamId": 11,
+      "teamName": "Cadillac",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    },
+    {
+      "driverId": 38,
+      "driverName": "Colton Herta",
+      "teamId": 11,
+      "teamName": "Cadillac",
+      "points": 0,
+      "wins": 0,
+      "podiums": 0,
+      "races": 0
+    }
+  ],
+  "constructorStandings": [
+    {
+      "teamId": 1,
+      "teamName": "McLaren",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 2,
+      "teamName": "Mercedes",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 3,
+      "teamName": "Red Bull",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 4,
+      "teamName": "Ferrari",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 5,
+      "teamName": "Williams",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 6,
+      "teamName": "Racing Bulls",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 7,
+      "teamName": "Aston Martin",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 8,
+      "teamName": "Haas",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 9,
+      "teamName": "Audi",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 10,
+      "teamName": "Alpine",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    },
+    {
+      "teamId": 11,
+      "teamName": "Cadillac",
+      "points": 0,
+      "wins": 0,
+      "races": 0
+    }
+  ],
+  "driverResultsHistory": {},
+  "usedDevelopmentTokens": {
+    "aero": 0,
+    "chassis": 0,
+    "powerUnit": 0
+  }
+}
